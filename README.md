@@ -1,1 +1,1 @@
-# Graph with Seaborn
+# Graphics with Seaborn
